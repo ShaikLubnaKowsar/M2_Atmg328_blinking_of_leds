@@ -1,6 +1,8 @@
 # M2_Atmg328_blinking_of_leds
 # CODIGA
 ![codiga](https://api.codiga.io/project/32880/score/svg)
+# CODACY
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a15507ffac1d4774ab9dec86b64b1c82)](https://www.codacy.com/gh/ShaikLubnaKowsar/M2_Atmg328_blinking_of_leds/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShaikLubnaKowsar/M2_Atmg328_blinking_of_leds&amp;utm_campaign=Badge_Grade)
 
 
 
