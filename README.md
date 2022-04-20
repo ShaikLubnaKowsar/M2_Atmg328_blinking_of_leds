@@ -1,4 +1,6 @@
 # M2_Atmg328_blinking_of_leds
+# CODIGA
+![codiga](https://api.codiga.io/project/32880/score/svg)
 
 
 
