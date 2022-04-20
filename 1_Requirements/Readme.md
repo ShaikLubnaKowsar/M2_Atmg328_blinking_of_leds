@@ -11,6 +11,16 @@
 
 # DISADVANTAGES
 
+## SWOT ANALYSIS
+
+# Strengths
+
+# Weakness
+
+# Oppurtunities
+
+# Threats
+
 
 
 
