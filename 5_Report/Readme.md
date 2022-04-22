@@ -30,4 +30,5 @@ Atmega32 is a very popular high performance 8 bit AVR Microcontroller. For this 
 In the simulator I have sended the Ascii values 0 to 255 so according to that leds are turning on and off.The relay gets turned on.Successfully the simulation done.
 
 # FLOW CHART
+![flow chart](https://github.com/ShaikLubnaKowsar/M2_Atmg328_blinking_of_leds/tree/main/2_Architecture)
 
